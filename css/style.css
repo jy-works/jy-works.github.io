@@ -1,0 +1,13 @@
+@charset "utf-8";
+/*
+Theme Name: ANTEROOM Theme
+Theme URI: http://www.straightline.jp
+Description: 
+Version: 1.0
+Author: STRAIGHTLINE
+Date: Jan 2011
+*/
+
+@import "base.css";
+@import "common.css";
+@import "element.css";
